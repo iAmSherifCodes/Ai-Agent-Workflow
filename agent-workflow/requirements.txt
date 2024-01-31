@@ -1,0 +1,16 @@
+DESCRIPTION
+
+An applicaiton that create an agent workflow capable of generating questions and answers on a specific topic
+
+Getting Started
+
+- Prerequisites
+- - Python 3.x 
+- - 
+***DEPENDECIES***
+- crewai
+- langchain
+- Ollama
+
+# Application Set-up
+
